@@ -1,0 +1,12 @@
+/* AUTOMATICALLY GENERATED ON Tue Mar 12 11:53:41 EET 2019*/
+/* DO NOT EDIT */
+
+keystore "file://F:/ITI/matrial/javaSecurity/labs/browserSignedJar/recieving/FXMLBrowsingStore", "jks";
+
+grant signedBy "FileKey" {
+  permission java.io.FilePermission "c:\\", "read";
+  permission java.io.FilePermission "c:/-", "read";
+  permission java.io.FilePermission "folder.png" ,"read";
+  
+};
+

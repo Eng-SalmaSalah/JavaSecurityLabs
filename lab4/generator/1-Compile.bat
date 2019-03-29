@@ -1,0 +1,2 @@
+javac GenDigitalSignature.java
+pause

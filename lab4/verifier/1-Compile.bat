@@ -1,0 +1,2 @@
+javac VerifySignature.java
+pause
